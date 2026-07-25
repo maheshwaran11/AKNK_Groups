@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.tiptoplaundrex.in/sitemap.xml
